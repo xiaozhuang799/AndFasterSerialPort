@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_type">数据类型</string>
+    <string name="data_type_txt">Txt</string>
+    <string name="data_type_hex">Hex</string>
+    <string name="clear_all_data">清除</string>
+    <string name="send_data">发送</string>
+
+    <string name="txt_data">hello</string>
+
+    <string name="open_serial">打开</string>
+    <string name="close_serial">关闭</string>
+
+    <color name="white">#ffffff</color>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="edit_text_size">18sp</dimen>
+</resources>
